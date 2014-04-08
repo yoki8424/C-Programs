@@ -25,7 +25,7 @@ int main(void)
 
 int isInt(double n)
 {
-	if((int) n - n == 0) // Then it's n is an integer
+	if((int) n - n == 0) // Then it's an integer
 	  return 1;
 	else // n is not an integer
 	  return 0;
