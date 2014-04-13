@@ -16,7 +16,7 @@
 # define  SEPTEMBER 9
 # define  OCTOBER 10
 # define  NOVEMBER 11
-# define  DECENBER 12
+# define  DECEMBER 12
 
 // The start date of the first calendar
 # define  CALENDAR_START 1582
