@@ -37,6 +37,7 @@ int main(void)
   if( (year < CALENDAR_START) || (month < 1 ) || (month > 12))
   {
     printf("Bad Input: %d %d\n", year, month);
+    system("pause");
     return; 
   }
   
