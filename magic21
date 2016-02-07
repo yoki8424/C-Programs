@@ -1,0 +1,151 @@
+/*
+   THIS PROGRAM SIMULATES A MAGIC TRICK WITH 21 CARDS
+   by: Rodney T. Anderson
+*/
+
+# include <stdio.h>
+
+void shuffle(int arr[][3], int arr2[][3]);
+void updateArray (int arr[][3], int arr2[][3]);
+void swap(int arr[][3], int x, int y);
+void printMatrix(int arr[][3]);
+
+int main(void)
+{
+
+    int inRow=0;
+    int turn=0;
+    int TRUE = 1, FALSE=0;
+    
+    //Creating 7 X 3 MATRIX
+    int arr[7][3] = {
+                     {1,2,3},
+                     {4,5,6},
+                     {7,8,9},
+                     {10,11,12},
+                     {13,14,15},
+                     {16,17,18},
+                     {19,20,21}};
+    
+    int arr2[7][3] = {
+                     {1,2,3},
+                     {4,5,6},
+                     {7,8,9},
+                     {10,11,12},
+                     {13,14,15},
+                     {16,17,18},
+                     {19,20,21}};
+                     
+    printf("Welcome to the Magic game\n");  
+    do{
+         
+         printf("Please remember a number in this matrix\n");
+         printMatrix(arr2);
+         printf("Please Enter the row number your number is in: ");
+         scanf("%d",&inRow);
+         if(inRow == 2)
+         {
+              shuffle(arr,arr2);
+         }
+         else if(inRow == 1)
+         {
+              swap(arr2,inRow-1,1);
+              updateArray(arr,arr2); // arr = arr2
+              shuffle(arr,arr2);
+         }
+         else if(inRow == 3)
+         {
+              swap(arr2,inRow-1,1);
+              updateArray(arr,arr2); 
+              shuffle(arr,arr2);
+         }
+         
+
+         //TO ALLOW A USER TO CHOOSE THE MIDDLE CARD ON FIRST TURN
+         if(inRow == 2 && turn !=0)
+         TRUE = FALSE;
+         
+         turn++;
+         system("cls");//clear screen windows command (optional)
+    
+    }while(TRUE );
+    
+    //THE LAST SHUFFLE AFTER THE USER INPUTS 2ND ROW, THIS SHUFFLE WILL PLACE THE NUMBER IN SPOT 11
+    //the last shuffle after they tell the card is in the 2nd row
+    printMatrix(arr2);
+    printf("Please Enter the row number your number is in: ");
+         scanf("%d",&inRow);
+    if(inRow == 2)// if the card is already in the second row, no need to change rows for correct shuffle
+         {
+              shuffle(arr,arr2);
+         }
+         else if(inRow == 1)// swap row 1 with row 2, in matrix its row 0 with row 1
+         {
+              swap(arr2,inRow-1,1);
+              updateArray(arr,arr2); // arr = arr2
+              shuffle(arr,arr2);
+         }
+         else if(inRow == 3)// swap row 3 with row 2, in matrix its row 2 with row 1
+         {
+              swap(arr2,inRow-1,1);
+              updateArray(arr,arr2); 
+              shuffle(arr,arr2);
+         }
+     printf("Your number is %d, I just read your mind FOOL! \n", arr[3][1]);// the answer is always the 11th card which is located in arr[3][1]
+     // note if I were to print the matrix right now, the users number would be in the 11th spot arr[3][1]
+     //printMatrix(arr2);   //<---- uncomment if u dont believe me
+    system("pause");
+}
+
+/////////////////////////////////////////// FUNCTIONS///////////////////////////////////////////////////////////////////
+// Does the shuffling according to 1row then second row then third row
+void shuffle(int arr[][3], int arr2[][3])
+{
+      int i,j,k=0,count =1;
+      
+      for(j=0; j<3; j++)
+     {
+       for(i=0; i<7; i++){ 
+                  arr2[k][((i%3)+j)%3] = arr[i][j];
+                  if(count%3 == 0)
+                  k++;
+                  
+                  count++;
+        }
+      }
+     updateArray(arr,arr2);
+}
+//This updates matrix arr, arr = arr2 where arr2 is the new matrix
+void updateArray (int arr[][3], int arr2[][3])
+{
+     int i,j;
+     for(i=0; i<7; i++)
+        for(j=0; j<3; j++)
+         arr[i][j] = arr2[i][j];
+     
+}
+//swap() swaps the columns of the matrix so that the shuffle works properly 
+void swap(int arr[][3], int x, int y)
+{
+     int i=0;
+     for(i=0; i<7; i++)
+     {
+              int temp = arr[i][x];
+              arr[i][x] = arr[i][y];
+              arr[i][y] = temp;
+     }
+}
+//prints the matrix
+void printMatrix(int arr[][3])
+{
+     int i,j;
+     printf("Row1\tRow2\tRow3\t\n");
+     for(i=0;i<7;i++)
+     {
+      for(j=0;j<3;j++)
+      {
+        printf("%d \t", arr[i][j]);
+      }
+      printf("\n");
+     }//*/
+}
