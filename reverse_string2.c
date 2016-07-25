@@ -9,7 +9,7 @@ void printReverseStr(char* ch);
 
 int main(void){
 	char* word = "hello world";
-	printReverseStr(word); // This function reverse the string 
+	printReverseStr(word); // This function prints the string in reverse 
 
 }
 
