@@ -37,8 +37,8 @@ int main(void)
 */
 int contains(char* str1, char* str2){
 	
-	int i,j;
-	int strlen1=strlen(str1), strlen2=strlen(str2);   
+    int i,j;
+    int strlen1=strlen(str1), strlen2=strlen(str2);   
     int startingIndex = 0;  
     
     if(strlen1 < strlen2)
