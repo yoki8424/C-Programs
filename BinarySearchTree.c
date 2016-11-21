@@ -1,7 +1,6 @@
-/* This is a BInary Search Tree Program Written in the C Programming Language */
+/* This is a Binary Search Tree Program Written in the C Programming Language */
 
 # include <stdio.h>
-# include <conio.h>
 # include <stdlib.h>
 
 typedef struct BST
@@ -24,17 +23,19 @@ void main()
  node *new_node,*root,*tmp,*parent;
  node *get_node();
  root=NULL;
- clrscr(); // If you are using Windows
+ 
 
- printf("nProgram For Binary Search Tree ");
+ printf("\nProgram For Binary Search Tree ");
  do
  {
-   printf("n1.Create");
-   printf("n2.Search");
-   printf("n3.Recursive Traversals");
-   printf("n4.Exit");
-   printf("nEnter your choice :");
+   printf("\n1.Create");
+   printf("\n2.Search");
+   printf("\n3.Recursive Traversals");
+   printf("\n4.Exit");
+   printf("\nEnter your choice :");
    scanf("%d",&choice);
+   
+    
 
    switch(choice)
    {
@@ -43,7 +44,7 @@ void main()
              {
              new_node=get_node();
 
-             printf("nEnter The Element ");
+             printf("\nEnter The Element ");
              scanf("%d",&new_node->data);
 
              if(root==NULL)   /* Tree is not Created */
@@ -51,7 +52,7 @@ void main()
              else
                  insert(root,new_node);
 
-             printf("nWant To enter More Elements?(y/n)");
+             printf("\nWant To enter More Elements?(y/n)");
              ans=getch();
 
              }while(ans=='y');
@@ -59,26 +60,29 @@ void main()
              break;
 
      case 2:
-             printf("nEnter Element to be searched :");
+             printf("\nEnter Element to be searched :");
              scanf("%d",&key);
 
              tmp = search(root,key,&parent);
 
-             printf("nParent of node %d is %d",
-                              tmp->data,parent->data);
+			 if(tmp == NULL)
+			 	printf("The Tree Is Empty \n");
+			 else
+             	printf("\nParent of node %d is %d", tmp->data,parent->data);
+             
              break;
 
     case 3:
 
             if(root==NULL)
-                printf("Tree Is Not Created");
+                printf("Tree Is Not Created \n");
             else
                {
-               printf("nThe Inorder display : ");
+               printf("\nThe Inorder display : ");
                inorder(root);
-               printf("nThe Preorder display : ");
+               printf("\nThe Preorder display : ");
                preorder(root);
-               printf("nThe Postorder display : ");
+               printf("\nThe Postorder display : ");
                postorder(root);
                }
 
@@ -130,7 +134,7 @@ node *search(node *root,int key,node **parent)
     {
       if(temp->data==key)
          {
-         printf("n The %d Element is Present",temp->data);
+         printf("\n The %d Element is Present",temp->data);
          return temp;
          }
       *parent=temp;
@@ -150,7 +154,7 @@ void inorder(node *temp)
    if(temp!=NULL)
     {
     inorder(temp->lchild);
-    printf("%d",temp->data);
+    printf("%d ",temp->data);
     inorder(temp->rchild);
     }
 }
@@ -161,7 +165,7 @@ void preorder(node *temp)
 {
  if(temp!=NULL)
     {
-    printf("%d",temp->data);
+    printf("%d ",temp->data);
     preorder(temp->lchild);
     preorder(temp->rchild);
     }
@@ -176,6 +180,7 @@ void postorder(node *temp)
     {
     postorder(temp->lchild);
     postorder(temp->rchild);
-    printf("%d",temp->data);
+    printf("%d ",temp->data);
     }
 }
+        
