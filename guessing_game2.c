@@ -44,7 +44,7 @@ int main (void)
     if( numGuesses == 10 )
     {
         printf("Sorry you've exceeded the number of tries to guess the random number %d\n\n", randomNumber);
-        printf("You Suck !\n");
+        printf("You Lose !\n");
     }
     
     
