@@ -7,7 +7,7 @@
 #include<stdlib.h>
 
  //The size of the hash table
-int SIZE = 7;//NOTE: for quadratic probing the size must be a primary number to make sure we can insert key on collisions
+int SIZE = 7;//NOTE: for quadratic probing the size must be a primary number to make sure we can insert key on collisions and hash table must be at least half empty
 
 int main(){
   int hashtable[SIZE]; //Creating the hash table
