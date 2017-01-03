@@ -3,7 +3,7 @@ This is a program that does 4 operations, addition,
 subtraction, multiplication, and division. 
 
 written by; 
-Rodney T. Anderson
+randerson112358
 */
 
 # include <stdio.h> 
