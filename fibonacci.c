@@ -1,6 +1,6 @@
 /*
   This program recurssively finds and prints the fibonacci number.
-  By: Rodney Anderson
+  By: randerson112358
   4/7/2014
 */
 
