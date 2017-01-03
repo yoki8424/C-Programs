@@ -1,6 +1,6 @@
 /* 
 This program adds numbers from 0 to n 
-By: Rodney Anderson
+By: randerson112358
 4/4/2014
 
 */
