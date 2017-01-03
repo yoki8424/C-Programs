@@ -1,6 +1,6 @@
 /*
   This program determines if a number (n) is even or odd
-  By: Rodney Anderson
+  By: randerson112358
   4/4/2014
 */
 
