@@ -1,6 +1,6 @@
 /*
  This program converts any number from base 10 any other base.
- By: Rodney T Anderson
+ By: randerson112358
  4/10/14
 */
 
