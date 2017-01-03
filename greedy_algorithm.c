@@ -2,7 +2,7 @@
    This programs uses the greedy algorithm to give the least 
    amount of change back. 
    Written in the C programming language
-   By: Rodney Anderson (randerson112358)
+   By:  (randerson112358)
 */
 
 # include <stdio.h>
