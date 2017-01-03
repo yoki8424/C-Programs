@@ -2,7 +2,7 @@
 
  This program outputs the factorial of a number e.g. 5! = 5 * 4 * 3 * 2 * 1 = 120.
  In general n! = n * n-1 * n-2* ... * 3 * 2 * 1
- By: Rodney Anderson
+ By: randerson112358
  
  */
 
