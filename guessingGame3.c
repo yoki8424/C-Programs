@@ -1,6 +1,6 @@
 /* This is the number guessing game program */
 /* This program was written in the C programing language 
-    By Rodney Anderson (randerson112358)
+    By  (randerson112358)
 */
 
 # include <stdio.h>
