@@ -1,5 +1,6 @@
 /*
    This program sorts an array of elements using the insertion sort algorithm
+   By:randerson112358
    
    Output:
    Enter total elements: 3
