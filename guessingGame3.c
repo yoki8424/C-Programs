@@ -37,6 +37,8 @@ int main(void)
 				if (playerAnswer == 1)
 				    break;
 
+				countNumTurns++;
+				
 			}while(playerAnswer != 1);
 
 	printf("I guessed your number in %d turns !\n", countNumTurns );
