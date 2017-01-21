@@ -36,11 +36,17 @@ int main(void)
 					highRange = yourGuess - 1;
 				if (playerAnswer == 1)
 				    break;
+				    
+				    countNumTurns++;
 
-				countNumTurns++;
-				
-			}while(playerAnswer != 1);
+			}while(playerAnswer != 1 && countNumTurns <= maxTurns);
 
+    //Print the end results
+    if(countNumTurns > maxTurns)
+    	printf("You made a mistake somewhere, you've exceeded the maximum turns. \n");
+	else
 	printf("I guessed your number in %d turns !\n", countNumTurns );
+	
+	
 	system("pause"); //This is only for windows operating system otherwise comment it out.
 }
