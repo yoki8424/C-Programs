@@ -1,5 +1,5 @@
 /*
-   This is a C program that multiplies 2 integers recursively
+   This is a C program that multiplies 2 integers recursively both ( negative and positive )
    Note: You can use either recursive case
 */
 
