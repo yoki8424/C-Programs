@@ -32,11 +32,11 @@ int main(){
 		printf("%c \n", name[i]);
 	}
 	
-	//Infinite for loop
-	for( ; ; ){
+	//Infinite for loop, this loop below will never end
+	/*for( ; ; ){
 		//Code here
 		printf("hello \n");
-	}
+	}*/
 	
 	return 0;
 }
