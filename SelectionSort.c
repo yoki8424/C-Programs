@@ -21,7 +21,7 @@
 
 #include<stdio.h>
 
-int SelectionSort(int size, int *array);
+int SelectionSort(int size, int *a);
 
 int main(){
 	
@@ -44,7 +44,7 @@ int main(){
 	return 0;
 }
 
-int SelectionSort(int size, int *array){
+int SelectionSort(int size, int *a){
 	
 	/* a[0] to a[n-1] is the array to sort */
 int i,j;
@@ -69,7 +69,10 @@ for (j = 0; j < size-1; j++)
 
     if(iMin != j) 
     {
-        swap(a[j], a[iMin]);
+        //swap(a[j], a[iMin]);
+	    int temp = a[j];
+	    a[j] = a[iMin];
+	    a[iMin] = temp;
     }
 }
 	
