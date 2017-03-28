@@ -1,6 +1,6 @@
 /*
   This program generates a NxN multiplication  table
-  By: Rodney Anderson
+  By: randerson112358
   4/4/2014
 */
 
