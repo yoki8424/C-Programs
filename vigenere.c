@@ -11,7 +11,7 @@
 # include <ctype.h> //has isupper(), islower(), tolower(), toupper()
 # include <stdlib.h> //atoi()
 
-//Declaring caesar cypher function
+//Declaring vigenere cypher function
 void vigenereCypher(char* plainText, char* k);
 
 int main(int argc, char *argv[] ){
