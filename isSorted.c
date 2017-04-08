@@ -13,7 +13,7 @@
 
 #include<stdio.h>
 
-//This function 1 if the array is in ascending order and return 0 otherwise
+//This function returns 1 if the array is in ascending order and return 0 otherwise
 int isSorted(int arraySize, int array[]);
 
 int main(){
