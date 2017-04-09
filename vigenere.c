@@ -1,7 +1,7 @@
 /**
 * This program (vigenere.c), encrypts any words the user inputs
 *
-*  @Author - Rodney T Anderson(randerson112358)
+*  @Author - (randerson112358)
 */
 
 
