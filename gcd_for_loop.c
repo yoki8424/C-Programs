@@ -1,5 +1,5 @@
 /*
-   This program finds the GCD or Greatest Commen Denominator of two integers (the largest integer that can exactly divide both numbers without a remainder.
+   This program finds the GCD or Greatest Commen Divisor of two integers (the largest integer that can exactly divide both numbers without a remainder.
 */
 
 #include <stdio.h>
