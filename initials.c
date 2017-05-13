@@ -3,7 +3,7 @@
 */
 
 //Initializing the APIs/ Libraries
-# include <stdio.h> //has gets(), printf()
+# include <stdio.h> //has fgets(), printf()
 # include <string.h>// has strlen()
 # include <ctype.h> // has toupper()
 
