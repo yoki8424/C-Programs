@@ -36,7 +36,8 @@ void getInitials(char* name){
      if(strlen(name) > 0)
        printf("%c", toupper(name[0]));
      
-     //While the user doesn't press the enter key denoted by '\0' character, go through each character of the string
+     //While the current character in name does not equal the last character in name denoted by '\0' , 
+     // go through each character of the string
      while(name[i] != '\0')
      {
                    //If the character is a space, then print the next character
