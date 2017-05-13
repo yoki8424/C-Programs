@@ -1,15 +1,12 @@
 /**
 * This program (initials.c), prints the initials of someones full name in all capitals
-*
-*  @Author - Rodney T Anderson
 */
-
 
 //Initializing the APIs/ Libraries
 # include <stdio.h> //has gets(), printf()
 # include <string.h>// has strlen()
 # include <ctype.h> // has toupper()
-# include <cs50.h> //GetString()
+
 
 //Declare function
 void getInitials(char* name);
@@ -20,18 +17,15 @@ int main(void){
     char name[31];
     
     //Ask the user for their name
-    //printf("Please enter your name:\n");
+    printf("Please enter your name:\n");
     
     //Get the users input (his or her name)
     fgets(name, sizeof(name), stdin);;
     
+    printf("Your initials are: ");
     //Prints the initials
     getInitials(name);
-    
-    
-    
-    //system("pause");
-    
+       
 }
 
 void getInitials(char* name){
