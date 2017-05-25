@@ -1,7 +1,7 @@
 /*
   This program prints all of the possible substrings of a word
   and calculates the number of the substrings
-  By: Rodney Anderson
+  By: randerson112358
   4/13/14
 */
 
