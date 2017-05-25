@@ -1,6 +1,6 @@
 /*
    THIS PROGRAM SIMULATES A MAGIC TRICK WITH 21 CARDS
-   by: Rodney T. Anderson
+   by: randerson112358
 */
 
 # include <stdio.h>
