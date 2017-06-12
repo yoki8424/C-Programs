@@ -17,3 +17,4 @@ Program Name | Algorithm Name| Link to Program | Blog
 --- | --- | --- | ---
 recursive_division.c |  Integer Division |  [Program](https://github.com/randerson112358/C-Programs/blob/master/recursive_division.c) | [Blog](https://medium.com/@randerson112358/recurrence-relation-475d4a4eaed1")
 multiplication_recursion_integers.c | Integer Multiplication |  [Program](https://github.com/randerson112358/C-Programs/blob/master/multiplication_recursion_integers.c) | [Blog](https://medium.com/@randerson112358/recurrence-relation-475d4a4eaed1)
+fibonacci.c | Fibonacci Sequence |  [Program](https://github.com/randerson112358/C-Programs/blob/master/fibonacci.c) | [Blog](https://medium.com/@randerson112358/recurrence-relation-475d4a4eaed1)
