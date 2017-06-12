@@ -12,3 +12,8 @@ Program Name | Algorithm Name| Link to Program | Blog
 caesarCipher.c |  Caesar Cipher |  [Program](https://github.com/randerson112358/C-Programs/blob/master/caesar.c) | [Blog](https://medium.com/@randerson112358/recurrence-relation-475d4a4eaed1")
 vigenereCipher.c | Vigenere Cipher |  [Program](https://github.com/randerson112358/C-Programs/blob/master/vigenere.c) | [Blog](https://medium.com/@randerson112358/recurrence-relation-475d4a4eaed1)
 
+## Recursion Programs
+Program Name | Algorithm Name| Link to Program | Blog
+--- | --- | --- | ---
+recursive_division.c |  Integer Division |  [Program](https://github.com/randerson112358/C-Programs/blob/master/recursive_division.c) | [Blog](https://medium.com/@randerson112358/recurrence-relation-475d4a4eaed1")
+multiplication_recursion_integers.c | Integer Multiplication |  [Program](https://github.com/randerson112358/C-Programs/blob/master/multiplication_recursion_integers.c) | [Blog](https://medium.com/@randerson112358/recurrence-relation-475d4a4eaed1)
