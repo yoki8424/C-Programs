@@ -7,7 +7,7 @@ Fun C Programs <br>
 To see me programming in C checkout the YouTube channel: <a target="_blank" href="https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA">Click Here</a>
 
 ## Encryption Programs
-Program Name | Algorithm Name| Link to Program | Blog
+Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 caesarCipher.c |  Caesar Cipher |  [Program](https://github.com/randerson112358/C-Programs/blob/master/caesar.c) | [Blog](https://medium.com/@randerson112358/programming-encryption-algorithms-520cb98c039d) | [YouTube Channel] (https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
 vigenereCipher.c | Vigenere Cipher |  [Program](https://github.com/randerson112358/C-Programs/blob/master/vigenere.c) | [Blog](https://medium.com/@randerson112358/programming-encryption-algorithms-520cb98c039d) | [YouTube Channel] (https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
