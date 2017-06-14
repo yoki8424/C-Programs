@@ -13,8 +13,8 @@ caesarCipher.c |  Caesar Cipher |  [Program](https://github.com/randerson112358/
 vigenereCipher.c | Vigenere Cipher |  [Program](https://github.com/randerson112358/C-Programs/blob/master/vigenereCipher.c) | [Blog](https://medium.com/@randerson112358/programming-encryption-algorithms-520cb98c039d) | [YouTube Channel](https://www.youtube.com/watch?v=wJihluta5y0)
 
 ## Recursion Programs
-Program Name | Algorithm Name| Link to Program | Blog
+Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | ---
-recursive_division.c |  Integer Division |  [Program](https://github.com/randerson112358/C-Programs/blob/master/recursive_division.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)
-multiplication_recursion_integers.c | Integer Multiplication |  [Program](https://github.com/randerson112358/C-Programs/blob/master/multiplication_recursion_integers.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)
-fibonacci.c | Fibonacci |  [Program](https://github.com/randerson112358/C-Programs/blob/master/fibonacci.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)
+recursive_division.c |  Integer Division |  [Program](https://github.com/randerson112358/C-Programs/blob/master/recursive_division.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [YouTube Channel](https://www.youtube.com/watch?v=DsYKagOoap0&t=26s)
+multiplication_recursion_integers.c | Integer Multiplication |  [Program](https://github.com/randerson112358/C-Programs/blob/master/multiplication_recursion_integers.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [YouTube Channel](https://www.youtube.com/watch?v=DsYKagOoap0&t=26s)
+fibonacci.c | Fibonacci |  [Program](https://github.com/randerson112358/C-Programs/blob/master/fibonacci.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [YouTube Channel](https://www.youtube.com/watch?v=DsYKagOoap0&t=26s)
