@@ -15,6 +15,6 @@ vigenereCipher.c | Vigenere Cipher |  [Program](https://github.com/randerson112
 ## Recursion Programs
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
-recursive_division.c |  Integer Division |  [Program](https://github.com/randerson112358/C-Programs/blob/master/recursive_division.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [YouTube Channel](https://www.youtube.com/edit?o=U&video_id=-K4Qnpku9mc)
-multiplication_recursion_integers.c | Integer Multiplication |  [Program](https://github.com/randerson112358/C-Programs/blob/master/multiplication_recursion_integers.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [YouTube Channel](https://www.youtube.com/edit?o=U&video_id=9WDaU7pNBrY)
-fibonacci.c | Fibonacci |  [Program](https://github.com/randerson112358/C-Programs/blob/master/fibonacci.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [YouTube Channel](https://www.youtube.com/edit?o=U&video_id=s3SxZtOizxM)
+recursive_division.c |  Integer Division |  [Program](https://github.com/randerson112358/C-Programs/blob/master/recursive_division.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [YouTube Channel](https://www.youtube.com/watch?v=-K4Qnpku9mc&t=1s)
+multiplication_recursion_integers.c | Integer Multiplication |  [Program](https://github.com/randerson112358/C-Programs/blob/master/multiplication_recursion_integers.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [YouTube Channel](https://www.youtube.com/watch?v=9WDaU7pNBrY)
+fibonacci.c | Fibonacci |  [Program](https://github.com/randerson112358/C-Programs/blob/master/fibonacci.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [YouTube Channel](https://www.youtube.com/watch?v=s3SxZtOizxM)
