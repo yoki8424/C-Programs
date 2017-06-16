@@ -35,3 +35,4 @@ subString.c | Subset Of String |  [Program](https://github.com/randerson112358/
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 num_to_romanNum.c |  Number To Roman Numeral |  [Program](https://github.com/randerson112358/C-Programs/blob/master/num_to_romanNum.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube X](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
+toBinary.c |  Number To Binary |  [Program](https://github.com/randerson112358/C-Programs/blob/master/toBinary.c) | [Watch on YouTube](https://www.youtube.com/watch?v=z9QBtqZGvvg)
