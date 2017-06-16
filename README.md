@@ -28,6 +28,6 @@ Program Name | Algorithm Name| Link to Program | Blog | YouTube
 containsStr.c |  Contains String |  [Program](https://github.com/randerson112358/C-Programs/blob/master/containsStr.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube X](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
 reverse_string.c | Reverse String Build In Function |  [Program](https://github.com/randerson112358/C-Programs/blob/master/reverse_string.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/watch?v=0KG7jW2DNS8)
 reverse_string2.c | Reverse String |  [Program](https://github.com/randerson112358/C-Programs/blob/master/reverse_string2.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/watch?v=VgRdKprPMG4)
-strings.c | Reverse String |  [Program](https://github.com/randerson112358/C-Programs/blob/master/strings.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube X](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
-reverse_string2.c | Reverse String |  [Program](https://github.com/randerson112358/C-Programs/blob/master/reverse_string2.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/watch?v=VgRdKprPMG4)
+strings.c | Strings |  [Program](https://github.com/randerson112358/C-Programs/blob/master/strings.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube X](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
+subString.c | Subset Of String |  [Program](https://github.com/randerson112358/C-Programs/blob/master/subString.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube X](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
 
