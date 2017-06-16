@@ -25,5 +25,5 @@ recursiveLog.c | Integer Logarithm |  [Program](https://github.com/randerson1123
 ## String manipulation Programs
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
-containsStr.c |  Contains String |  [Program](https://github.com/randerson112358/C-Programs/blob/master/containsStr.c) | [Blog](http://http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
+containsStr.c |  Contains String |  [Program](https://github.com/randerson112358/C-Programs/blob/master/containsStr.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
 vigenereCipher.c | Vigenere Cipher |  [Program](https://github.com/randerson112358/C-Programs/blob/master/vigenereCipher.c) | [Blog](https://medium.com/@randerson112358/programming-encryption-algorithms-520cb98c039d) | [Watch on YouTube](https://www.youtube.com/watch?v=wJihluta5y0)
