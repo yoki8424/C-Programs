@@ -22,7 +22,7 @@ power_function_recursion.c | Power Function |  [Program](https://github.com/rand
 isSorted.c | Check If Array Is Sorted |  [Program](https://github.com/randerson112358/C-Programs/blob/master/isSorted.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [Watch on YouTube](https://www.youtube.com/watch?v=VaqC-PUcZxo&list=PLBhJnyA0V0uIVRAfU_PnWKNZ3VjhuU_kB&index=7&t=1s)
 recursiveLog.c | Integer Logarithm |  [Program](https://github.com/randerson112358/C-Programs/blob/master/recursiveLog.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [Watch on YouTube](https://www.youtube.com/watch?v=JGp_CgMGUYM&list=PLBhJnyA0V0uIVRAfU_PnWKNZ3VjhuU_kB&index=9)
 
-## String manipulation Programs
+## String Manipulation Programs
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 containsStr.c |  Contains String |  [Program](https://github.com/randerson112358/C-Programs/blob/master/containsStr.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
