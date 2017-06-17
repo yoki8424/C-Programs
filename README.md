@@ -53,7 +53,7 @@ toBinary.c |  Number To Binary |  [Program](https://github.com/randerson112358/C
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 BinarySearchTree.c |  Binary Search Tree (BST) |  [Program](https://github.com/randerson112358/C-Programs/blob/master/BinarySearchTree.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube X](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
-toBinary.c |  Number To Binary |  [Program](https://github.com/randerson112358/C-Programs/blob/master/toBinary.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube](https://www.youtube.com/watch?v=z9QBtqZGvvg)
+hashTable_quadratic_probing.c |  Hash Table Quadratic Probing |  [Program](https://github.com/randerson112358/C-Programs/blob/master/hashTable_quadratic_probing.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube](https://www.youtube.com/watch?v=BoZbu1cR0no)
 toBinary.c |  Number To Binary |  [Program](https://github.com/randerson112358/C-Programs/blob/master/toBinary.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube](https://www.youtube.com/watch?v=z9QBtqZGvvg)
 toBinary.c |  Number To Binary |  [Program](https://github.com/randerson112358/C-Programs/blob/master/toBinary.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube](https://www.youtube.com/watch?v=z9QBtqZGvvg)
 toBinary.c |  Number To Binary |  [Program](https://github.com/randerson112358/C-Programs/blob/master/toBinary.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube](https://www.youtube.com/watch?v=z9QBtqZGvvg)
