@@ -21,6 +21,7 @@ fibonacci.c | Fibonacci |  [Program](https://github.com/randerson112358/C-Progra
 power_function_recursion.c | Power Function |  [Program](https://github.com/randerson112358/C-Programs/blob/master/power_function_recursion.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [Watch on YouTube](https://www.youtube.com/watch?v=s3SxZtOizxM)
 isSorted.c | Check If Array Is Sorted |  [Program](https://github.com/randerson112358/C-Programs/blob/master/isSorted.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [Watch on YouTube](https://www.youtube.com/watch?v=VaqC-PUcZxo&list=PLBhJnyA0V0uIVRAfU_PnWKNZ3VjhuU_kB&index=7&t=1s)
 recursiveLog.c | Integer Logarithm |  [Program](https://github.com/randerson112358/C-Programs/blob/master/recursiveLog.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [Watch on YouTube](https://www.youtube.com/watch?v=JGp_CgMGUYM&list=PLBhJnyA0V0uIVRAfU_PnWKNZ3VjhuU_kB&index=9)
+factorial.c | factorial |  [Program](https://github.com/randerson112358/C-Programs/blob/master/factorial.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Recurssion.html)| [Watch on YouTube](https://www.youtube.com/watch?v=H4jH3YLGl-A)
 
 ## String Manipulation Programs
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
