@@ -43,7 +43,7 @@ baseConverter.c |  Decimal Number To Any Base |  [Program](https://github.com/ra
 ## Sorting Programs
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
-num_to_romanNum.c |  Number To Roman Numeral |  [Program](https://github.com/randerson112358/C-Programs/blob/master/num_to_romanNum.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube X](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
+BubbleSort.c |  Bubble Sort |  [Program](https://github.com/randerson112358/C-Programs/blob/master/BubbleSort.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/watch?v=Qx3CEXCX_r0&t=1s)
 toBinary.c |  Number To Binary |  [Program](https://github.com/randerson112358/C-Programs/blob/master/toBinary.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube](https://www.youtube.com/watch?v=z9QBtqZGvvg)
 
 ## Data Structures
