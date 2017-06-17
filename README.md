@@ -43,10 +43,10 @@ baseConverter.c |  Decimal Number To Any Base |  [Program](https://github.com/ra
 ## Sorting Algorithms/Programs
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
-BubbleSort.c |  Bubble Sort |  [Program](https://github.com/randerson112358/C-Programs/blob/master/BubbleSort.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/watch?v=Qx3CEXCX_r0&t=1s)
+BubbleSort.c |  Bubble Sort |  [Program](https://github.com/randerson112358/C-Programs/blob/master/BubbleSort.c) | [Blog](http://everythingcomputerscience.com/algorithms/CSSorting_Algorithms.html) | [Watch on YouTube](https://www.youtube.com/watch?v=Qx3CEXCX_r0&t=1s)
 Hash_Bucket_Sort.c |  Bucket Sort |  [Program](https://github.com/randerson112358/C-Programs/blob/master/Hash_Bucket_Sort.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Data_Structures/Hash_Table.html)| [Watch on YouTube X](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
-InsertionSort.c |  Insertion Sort |  [Program](https://github.com/randerson112358/C-Programs/blob/master/InsertionSort.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube](https://www.youtube.com/watch?v=kP7Qg3tWP6o)
-toBinary.c |  Number To Binary |  [Program](https://github.com/randerson112358/C-Programs/blob/master/toBinary.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube](https://www.youtube.com/watch?v=z9QBtqZGvvg)
+InsertionSort.c |  Insertion Sort |  [Program](https://github.com/randerson112358/C-Programs/blob/master/InsertionSort.c) | [Blog](http://everythingcomputerscience.com/algorithms/CSSorting_Algorithms.html)| [Watch on YouTube](https://www.youtube.com/watch?v=kP7Qg3tWP6o)
+SelectionSort.c |  Selection Sort |  [Program](https://github.com/randerson112358/C-Programs/blob/master/SelectionSort.c) | [Blog](http://everythingcomputerscience.com/algorithms/CSSorting_Algorithms.html)| [Watch on YouTube](https://www.youtube.com/watch?v=GNBwfXb3iac&t=25s)
 toBinary.c |  Number To Binary |  [Program](https://github.com/randerson112358/C-Programs/blob/master/toBinary.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube](https://www.youtube.com/watch?v=z9QBtqZGvvg)
 
 ## Data Structures
