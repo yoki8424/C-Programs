@@ -1,4 +1,4 @@
-C-Programs [![Awesome]]
+C-Programs 
 ==========
 <p align="center">
   <img src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTE9OJQv6zC8LkDg3vRmhZ6L8c7kFqHIvxJ-lci99wjfD1koZVu" width="350"/>
