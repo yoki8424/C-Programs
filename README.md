@@ -31,7 +31,7 @@ containsStr.c |  Contains String |  [Program](https://github.com/randerson112358
 reverse_string.c | Reverse String Build In Function |  [Program](https://github.com/randerson112358/C-Programs/blob/master/reverse_string.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/watch?v=0KG7jW2DNS8)
 reverse_string2.c | Reverse String |  [Program](https://github.com/randerson112358/C-Programs/blob/master/reverse_string2.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/watch?v=VgRdKprPMG4)
 strings.c | Strings |  [Program](https://github.com/randerson112358/C-Programs/blob/master/strings.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube X](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
-subString.c | Subset Of String |  [Program](https://github.com/randerson112358/C-Programs/blob/master/subString.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube X](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
+subString3.c | Subset Of String |  [Program](https://github.com/randerson112358/C-Programs/blob/master/subString3.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/watch?v=4GUds8KCUnA&feature=youtu.be)
 lowerCase.c | String To Lower Case |  [Program](https://github.com/randerson112358/C-Programs/blob/master/lowerCase.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/watch?v=Tfd9M2z41V4)
 
 ## Number Conversion Programs
