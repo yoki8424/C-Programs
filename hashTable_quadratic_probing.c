@@ -7,11 +7,13 @@
 #include<stdlib.h>
 
  //The size of the hash table
-int SIZE = 7;//NOTE: for quadratic probing the size must be a primary number to make sure we can insert key on collisions and hash table must be at least half empty
+int SIZE = 7;//NOTE: for quadratic probing the size must be a primary number to make sure we can insert key on collisions 
+            //and the hash table must be at least half empty
 
 int main(){
   int hashtable[SIZE]; //Creating the hash table
-  int empty[7]  = { NULL }; // initialize all elements in empty array to -1, NOTE: had to use a numeric value '7' instead of variable 'SIZE' for this syntax
+  int empty[7]  = { NULL }; // initialize all elements in empty array to -1, 
+  //NOTE: had to use a numeric value '7' instead of variable 'SIZE' for this syntax
   
   int i;
   for(i=0; i<SIZE; i++)
