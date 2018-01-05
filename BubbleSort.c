@@ -34,7 +34,7 @@ int main(void){
 	}
 	
 	printf("\n");
-	system("pause"); // uncomment if you are not using Windows OS
+	system("pause"); // comment this line if you are not using Windows OS
 	return 0; 
 }
 
