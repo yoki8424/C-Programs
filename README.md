@@ -58,3 +58,9 @@ BinarySearchTree.c |  Binary Search Tree (BST) |  [Program](https://github.com/r
 hashTable_quadratic_probing.c |  Hash Table Quadratic Probing |  [Program](https://github.com/randerson112358/C-Programs/blob/master/hashTable_quadratic_probing.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Data_Structures.html)| [Watch on YouTube](https://www.youtube.com/watch?v=BoZbu1cR0no)
 linkedList.c |  Linked List |  [Program](https://github.com/randerson112358/C-Programs/blob/master/linkedList.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Data_Structures.html)| [Watch on YouTube](https://www.youtube.com/watch?v=FaY_pVYisf4)
 
+## Interview Problems
+Program Name | Algorithm Name| Link to Program | Blog | YouTube
+--- | --- | --- | --- | ---
+MissingNo.c |  Find The Missing number |  [Program](https://raw.githubusercontent.com/randerson112358/C-Programs/master/MissingNo.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube ](https://youtu.be/VOLwN1FWRXg)
+
+
