@@ -63,5 +63,5 @@ linkedList.c |  Linked List |  [Program](https://github.com/randerson112358/C-Pr
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 MissingNo.c |  Find The Missing number |  [Program](https://raw.githubusercontent.com/randerson112358/C-Programs/master/MissingNo.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube ](https://youtu.be/VOLwN1FWRXg)
-
+fizzBuzz.c |  Fizz Buzz Problem |  [Program](https://raw.githubusercontent.com/randerson112358/C-Programs/master/fizzBuzz.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube ](https://youtu.be/V-Ijm0CFAj8)
 
