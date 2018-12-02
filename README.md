@@ -40,7 +40,7 @@ Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 num_to_romanNum.c |  Number To Roman Numeral |  [Program](https://github.com/randerson112358/C-Programs/blob/master/num_to_romanNum.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube](https://www.youtube.com/watch?v=ttbNzcjgnLs)
 toBinary.c |  Number To Binary |  [Program](https://github.com/randerson112358/C-Programs/blob/master/toBinary.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube](https://www.youtube.com/watch?v=z9QBtqZGvvg)
-baseConverter.c |  Decimal Number To Any Base |  [Program](https://github.com/randerson112358/C-Programs/blob/master/baseConverter.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube X](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
+baseConverter.c |  Decimal Number To Any Base |  [Program](https://github.com/randerson112358/C-Programs/blob/master/baseConverter.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube](https://youtu.be/rVU-H522Dvc)
 NumToBinary.c |  Number To Binary Includes Fractions |  [Program](https://github.com/randerson112358/C-Programs/blob/master/NumToBinary.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube](https://youtu.be/aOniND7pH3w)
 fahrenheit_to_celsius.c |  Fahrenheit To Celsius |  [Program](https://github.com/randerson112358/C-Programs/blob/master/fahrenheit_to_celsius.c) | [Blog](http://everythingcomputerscience.com/)| [Watch on YouTube](https://youtu.be/2k_9xUXZAQU)
 
