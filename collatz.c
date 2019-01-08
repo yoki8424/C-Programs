@@ -2,7 +2,8 @@
   Description: This program models the collatz conjecture
   
   The collatz Conjecture is a conjecture that concerns a sequence that was introduced in 1937 and named after Lothar Collatz. The conjecture is that no matter what value of 'n' where n is a positive integer, the sequence always reaches 1.
-Mathematicians like Erdos said "this is a problem for which mathematics is perhaps not ready". So far mathematicians have tried approximately 2^60 positive integers, and so far they always reach 1, but this is a fun problem you can 
+Mathematicians like Erdos said "this is a problem for which mathematics is perhaps not ready". 
+So far mathematicians have tried approximately 2^60 positive integers, and so far they always reach 1, but this is a fun problem you can 
 try at home.
   
   Collatz Conjecture Rules:
