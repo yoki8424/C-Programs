@@ -4,13 +4,13 @@ int gcd(int a, int b); // where a < b
 int main(void)
 {
     int a,b;
-    printf("This program returns the Greatest Common Denominator of integers a, and b\n");
+    printf("This program returns the Greatest Common Divsor of integers a, and b\n");
     printf("Input a:");
     scanf("%d", &a);
     printf("Input b:");
     scanf("%d", &b);
     
-    printf("%d is the greatest common denominator\n", gcd(a,b));
+    printf("%d is the greatest common divisor\n", gcd(a,b));
     system("pause");
 }
 int gcd(int a, int b)
