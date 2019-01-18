@@ -71,3 +71,4 @@ gcd_for_loop.c |  Euclides Greatest Common Divisor |  [Program](https://github.c
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 multiplication_table.c |  Multiplication Table |  [Program](https://github.com/randerson112358/C-Programs/blob/master/multiplication_table.c) | [Blog](http://everythingcomputerscience.com)| [Watch on YouTube](https://youtu.be/3AfBBa_-5AQ)
+Multiplication_Practice.c |  Practice Multiplication |  [Program](https://raw.githubusercontent.com/randerson112358/C-Programs/master/Multiplication_Practice.c) | [Blog](http://everythingcomputerscience.com)| [Watch on YouTube](https://youtu.be/Kduf7VwEMp4)
