@@ -54,5 +54,5 @@ int gcd(int a, int b)
     if(a == 0)
       return b;
     else // Else return our recursive case
-      return gcd(b%a, a);
+      return gcd(a, b%a);
 }
