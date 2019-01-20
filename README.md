@@ -66,7 +66,7 @@ Program Name | Algorithm Name| Link to Program | Blog | YouTube
 MissingNo.c |  Find The Missing number |  [Program](https://raw.githubusercontent.com/randerson112358/C-Programs/master/MissingNo.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube ](https://youtu.be/VOLwN1FWRXg)
 fizzBuzz.c |  Fizz Buzz Problem |  [Program](https://raw.githubusercontent.com/randerson112358/C-Programs/master/fizzBuzz.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube ](https://youtu.be/V-Ijm0CFAj8)
 gcd_for_loop.c |  Euclides Greatest Common Divisor |  [Program](https://github.com/randerson112358/C-Programs/blob/master/gcd_for_loop.c) | [Blog](https://medium.com/@randerson112358/euclides-algorithm-gcd-fd664f5ac540) | [Watch on YouTube ](https://youtu.be/wxA4P-lWTwc)
-gcd.c |  Euclides Greatest Common Divisor Recursion |  [Program](https://github.com/randerson112358/C-Programs/blob/master/gcd_for_loop.c) | [Blog](https://medium.com/@randerson112358/euclides-algorithm-gcd-fd664f5ac540) | [Watch on YouTube ](https://youtu.be/jmJ1_-IJMSk)
+gcd.c |  Euclides Greatest Common Divisor Recursion |  [Program](https://github.com/randerson112358/C-Programs/blob/master/gcd.c) | [Blog](https://medium.com/@randerson112358/euclides-algorithm-gcd-fd664f5ac540) | [Watch on YouTube ](https://youtu.be/jmJ1_-IJMSk)
 
 ## Multiplication Programs
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
