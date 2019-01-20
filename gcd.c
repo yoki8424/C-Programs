@@ -50,9 +50,9 @@ int gcd(int a, int b)
          a = b;
          b = temp;
     }
-    //Base Case is when a equals 0, this tells we are done
+    //Base Case is when a equals 0, this tells we are done (From:"Keep repeating the step until one of the two numbers reaches zero")
     if(a == 0)
       return b;
-    else // Else return our recursive case
+    else // Else return our recursive case (From: repeatedly replace the larger number with the greater number mod the lesser number)
       return gcd(a, b%a);
 }
