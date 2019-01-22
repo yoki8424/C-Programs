@@ -1,4 +1,7 @@
 /*
+     Description: This is a number guessing program 
+     
+     Example:
      Think of a number from 1 to 100, I can guess your number within 7 turns
      
      Is your number 50?
