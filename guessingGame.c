@@ -17,7 +17,7 @@
      HOW THIS WORKS
      Think of a number from 1 to 100, I can guess your number within logBase2(100 + 1 - 1) == 7 turns
      
-     Is your roundUp(100 + 1 - 1)/ 2 == 50? Range 1 to 100 (100 possible guesses)
+     Is your number roundUp(100 + 1 - 1)/ 2 == 50? Range 1 to 100 (100 possible guesses)
      No, guess a higher number        newRange =  51 to 100 (50 possible guesses)
      
      Is your number roundUp(100 + 51 - 1)/2 ==  75? Range 51 to 100 (50 possible guesses)
