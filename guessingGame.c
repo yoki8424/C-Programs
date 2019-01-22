@@ -1,7 +1,7 @@
 /*
      Think of a number from 1 to 100, I can guess your number within 7 turns
      
-     Is your 50?
+     Is your number 50?
      No, guess a higher number 
      
      Is your number 75 ? 
