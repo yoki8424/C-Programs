@@ -17,16 +17,16 @@
      HOW THIS WORKS
      Think of a number from 1 to 100, I can guess your number within logBase2(100 + 1 - 1) == 7 turns
      
-     Is your number roundUp(100 + 1 - 1)/ 2 == 50? Range 1 to 100 (100 possible guesses)
+     Is your number roundUp((100 + 1 - 1)/ 2) == 50? Range 1 to 100 (100 possible guesses)
      No, guess a higher number        newRange =  51 to 100 (50 possible guesses)
      
-     Is your number roundUp(100 + 51 - 1)/2 ==  75? Range 51 to 100 (50 possible guesses)
+     Is your number roundUp((100 + 51 - 1)/2) ==  75? Range 51 to 100 (50 possible guesses)
      No, guess a higher number        newRange = 76 to 100 (25 possible guesses)
      
-     Is your number roundUp(100 + 76 -1)/2 == 87.5== 88 ? Range 76 to 100 
+     Is your number roundUp((100 + 76 -1)/2) == 87.5== 88 ? Range 76 to 100 
      No, guess a lower number         newRange = 76 to 87 (12 possible guesses)
      
-     Is your number  roundUp(87 +76 - 1)/2 ==  81 ?     
+     Is your number  roundUp((87 +76 - 1)/2) ==  81 ?     
      Yes, you guessed my number within 7 turns specifically 4 turns 
      
      By:randerson112358
