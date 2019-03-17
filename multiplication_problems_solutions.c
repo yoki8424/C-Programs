@@ -25,8 +25,8 @@ int main(){
 		srand(time(NULL));
 		
 		//Declaring the variables we want to use
-		int x ; // returns a pseudo-random integer between 1 and 50 instead of RAND_MAX
-		int y ; // returns a pseudo-random integer between 0 and 50 instead of RAND_MAX
+		int x ; // returns a pseudo-random integer between 1 and 10 instead of RAND_MAX
+		int y ; // returns a pseudo-random integer between 0 and 10 instead of RAND_MAX
 		int answer ;
 		char userInput;
 		int correct=0;//the number of questions the user got correct
@@ -39,8 +39,8 @@ int main(){
 		for(i=0; i<numQuestions; i++){
 			
 			//Create two random numbers to multiply together
-			 x = rand()%10+1; // returns a pseudo-random integer between 1 and 50 instead of RAND_MAX
-			 y = rand()%10+0; // returns a pseudo-random integer between 0 and 50 instead of RAND_MAX
+			 x = rand()%10+1; // returns a pseudo-random integer between 1 and 10 instead of RAND_MAX
+			 y = rand()%10+0; // returns a pseudo-random integer between 0 and 10 instead of RAND_MAX
 			 answer = x * y;
 			
 			//Print question number 'i'
