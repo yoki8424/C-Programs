@@ -1,6 +1,6 @@
 /*
   This program tells if a string is contained in another string.
-  Example: Does 'harbor' contain 'or' , since it is the code will print 'Yes or is contained in harbor starting at position 4 of harbor', else it prints .. it is not contained in ..
+  Example: Does 'harbor' contain 'or' , since it is, the code will print 'Yes or is contained in harbor starting at position 4 of harbor', else it prints .. it is not contained in ..
   By: randerson112358
 */
 
