@@ -67,6 +67,9 @@ MissingNo.c |  Find The Missing number |  [Program](https://raw.githubuserconten
 fizzBuzz.c |  Fizz Buzz Problem |  [Program](https://raw.githubusercontent.com/randerson112358/C-Programs/master/fizzBuzz.c) | [Blog](http://everythingcomputerscience.com/) | [Watch on YouTube ](https://youtu.be/V-Ijm0CFAj8)
 gcd_for_loop.c |  Euclides Greatest Common Divisor |  [Program](https://github.com/randerson112358/C-Programs/blob/master/gcd_for_loop.c) | [Blog](https://medium.com/@randerson112358/euclides-algorithm-gcd-fd664f5ac540) | [Watch on YouTube ](https://youtu.be/wxA4P-lWTwc)
 gcd.c |  Euclides Greatest Common Divisor Recursion |  [Program](https://github.com/randerson112358/C-Programs/blob/master/gcd.c) | [Blog](https://medium.com/@randerson112358/euclides-algorithm-gcd-fd664f5ac540) | [Watch on YouTube ](https://youtu.be/WA9SWF7mGY0)
+integerPalindrome.c |  Integer Palindrome |  [Program](https://github.com/randerson112358/C-Programs/blob/master/integerPalindrome.c) | [Blog](https://medium.com/@randerson112358/practice-programming-problems-97b7d4e32a5c) | [Watch on YouTube ](https://youtu.be/jzeZ6PevEUY)
+
+
 
 ## Multiplication Programs
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
