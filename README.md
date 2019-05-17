@@ -56,7 +56,7 @@ isSorted.c |  Check If Array Sorted |  [Program](https://github.com/randerson112
 ## Data Structures
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
-BinarySearchTree.c |  Binary Search Tree (BST) |  [Program](https://github.com/randerson112358/C-Programs/blob/master/BinarySearchTree.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Data_Structures.html) | [Watch on YouTube X](https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA)
+BinarySearchTree.c |  Binary Search Tree (BST) |  [Program](https://github.com/randerson112358/C-Programs/blob/master/BinarySearchTree.c) | [Blog](https://medium.com/@randerson112358/create-a-binary-search-tree-b3f96bf71fc3) | [Watch on YouTube](https://youtu.be/CJcAloSR9TY?list=PLj68PAxAKGozSpQdjobqZNmtoYTuIXhjm)
 hashTable_quadratic_probing.c |  Hash Table Quadratic Probing |  [Program](https://github.com/randerson112358/C-Programs/blob/master/hashTable_quadratic_probing.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Data_Structures.html)| [Watch on YouTube](https://www.youtube.com/watch?v=BoZbu1cR0no)
 linkedList.c |  Linked List |  [Program](https://github.com/randerson112358/C-Programs/blob/master/linkedList.c) | [Blog](http://everythingcomputerscience.com/discrete_mathematics/Data_Structures.html)| [Watch on YouTube](https://www.youtube.com/watch?v=FaY_pVYisf4)
 
