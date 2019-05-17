@@ -69,6 +69,8 @@ gcd_for_loop.c |  Euclides Greatest Common Divisor |  [Program](https://github.c
 gcd.c |  Euclides Greatest Common Divisor Recursion |  [Program](https://github.com/randerson112358/C-Programs/blob/master/gcd.c) | [Blog](https://medium.com/@randerson112358/euclides-algorithm-gcd-fd664f5ac540) | [Watch on YouTube ](https://youtu.be/WA9SWF7mGY0)
 integerPalindrome.c |  Integer Palindrome |  [Program](https://github.com/randerson112358/C-Programs/blob/master/integerPalindrome.c) | [Blog](https://medium.com/@randerson112358/practice-programming-problems-97b7d4e32a5c) | [Watch on YouTube ](https://youtu.be/jzeZ6PevEUY)
 palindrome.c |  Word Palindrome |  [Program](https://github.com/randerson112358/C-Programs/blob/master/palindrome.c) | [Blog](https://medium.com/@randerson112358/practice-programming-problems-97b7d4e32a5c) | [Watch on YouTube ](https://youtu.be/WFzg1PeniFY)
+isUnique.c |  Unique String |  [Program](https://github.com/randerson112358/C-Programs/blob/master/isUnique.c) | [Blog](https://medium.com/@randerson112358/practice-programming-problems-97b7d4e32a5c) | [Watch on YouTube ](https://youtu.be/pP8erpbbyZA)
+anagram.c |  Anagram |  [Program](https://github.com/randerson112358/C-Programs/blob/master/anagram.c) | [Blog](https://medium.com/@randerson112358/practice-programming-problems-97b7d4e32a5c) | [Watch on YouTube ](https://youtu.be/ZGiHxD4YTNU)
 
 
 
