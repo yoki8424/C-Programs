@@ -80,4 +80,5 @@ Program Name | Algorithm Name| Link to Program | Blog | YouTube
 multiplication_table.c |  Multiplication Table |  [Program](https://github.com/randerson112358/C-Programs/blob/master/multiplication_table.c) | [Blog](http://everythingcomputerscience.com)| [Watch on YouTube](https://youtu.be/3AfBBa_-5AQ)
 Multiplication_Practice.c |  Practice Multiplication |  [Program](https://raw.githubusercontent.com/randerson112358/C-Programs/master/Multiplication_Practice.c) | [Blog](http://everythingcomputerscience.com)| [Watch on YouTube](https://youtu.be/Kduf7VwEMp4)
 
-## Relavent Books On Amazon
+# Relavent Books On Amazon
+* [C Programming Language, 2nd Edition] (https://www.amazon.com/gp/product/0131103628/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0131103628&linkId=dbe89443a8cb088ea2f722282dec7725)
