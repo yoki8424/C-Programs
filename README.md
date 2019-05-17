@@ -82,4 +82,5 @@ Multiplication_Practice.c |  Practice Multiplication |  [Program](https://raw.gi
 
 # Relavent Books On Amazon
 * [C Programming Language, 2nd Edition](https://www.amazon.com/gp/product/0131103628/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0131103628&linkId=dbe89443a8cb088ea2f722282dec7725)
+* [C Programming: A Modern Approach, 2nd Edition](https://www.amazon.com/gp/product/0393979504/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393979504&linkId=97fd4b7ec63226d7acc377de4c8cf802)
 
