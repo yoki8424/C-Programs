@@ -27,7 +27,7 @@ int main(void)
     char arr8[2][2];
     arr8[0][0] = 'a';
     
-    char *arr9=(char*)malloc(5*sizeof(char));//allocating space for a 2d array
+    char *arr9=(char*)malloc(5*sizeof(char));//allocating space for a 1d array
     
     
     
