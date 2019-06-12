@@ -1,5 +1,6 @@
 /*
    This program is a game to test your memory. 
+   NOTE: This should only be played on Windows.
 */
 
 # include <stdio.h>// defines scanf() and printf() and getchar()
