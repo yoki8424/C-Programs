@@ -1,4 +1,3 @@
-
 /*            M = 1000
               CM = 900
               D= 500
@@ -48,6 +47,10 @@ int main(void)
                    printf("C");
                    num-=100;
               }
+              else if(num >= 90){
+              	   printf("XC");
+              	   num -= 90;
+			  }
               else if(num >= 50)
               {
                    printf("L");
