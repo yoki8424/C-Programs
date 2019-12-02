@@ -1,3 +1,34 @@
+/*
+Given an alphabet this program sorts names/words.
+
+Input:
+ Line 1) The new alphabet
+ Line 2) The 'n' number of names / words to sort
+ Line 3) The 'n' names to sort
+ 
+ Output: 
+  The sorted names / words
+
+Example: 
+  Input: 
+  b j k v q z c d e t u h w x n o p f g l y m r s i a
+  5 
+  jonah
+  peter
+  frank
+  john
+  adam
+  
+  Output:
+  john
+  jonah
+  peter
+  frank
+  adam
+
+
+*/
+
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
