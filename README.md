@@ -7,6 +7,15 @@
 Fun C Programs <br>
 To see me programming in C checkout the YouTube channel: <a target="_blank" href="https://www.youtube.com/channel/UCbmb5IoBtHZTpYZCDBOC1CA">Click Here</a>
 
+# Relavent Books On 
+<p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a9/Amazon_logo.svg" width="350"/>
+</p>
+* [C Programming Language, 2nd Edition](https://www.amazon.com/gp/product/0131103628/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0131103628&linkId=dbe89443a8cb088ea2f722282dec7725)
+* [C Programming: A Modern Approach, 2nd Edition](https://www.amazon.com/gp/product/0393979504/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393979504&linkId=97fd4b7ec63226d7acc377de4c8cf802)
+
+
+
 ## Encryption Programs
 Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
@@ -79,8 +88,4 @@ Program Name | Algorithm Name| Link to Program | Blog | YouTube
 --- | --- | --- | --- | ---
 multiplication_table.c |  Multiplication Table |  [Program](https://github.com/randerson112358/C-Programs/blob/master/multiplication_table.c) | [Blog](http://everythingcomputerscience.com)| [Watch on YouTube](https://youtu.be/3AfBBa_-5AQ)
 Multiplication_Practice.c |  Practice Multiplication |  [Program](https://raw.githubusercontent.com/randerson112358/C-Programs/master/Multiplication_Practice.c) | [Blog](http://everythingcomputerscience.com)| [Watch on YouTube](https://youtu.be/Kduf7VwEMp4)
-
-# Relavent Books On Amazon
-* [C Programming Language, 2nd Edition](https://www.amazon.com/gp/product/0131103628/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0131103628&linkId=dbe89443a8cb088ea2f722282dec7725)
-* [C Programming: A Modern Approach, 2nd Edition](https://www.amazon.com/gp/product/0393979504/ref=as_li_tl?ie=UTF8&tag=github01d-20&camp=1789&creative=9325&linkCode=as2&creativeASIN=0393979504&linkId=97fd4b7ec63226d7acc377de4c8cf802)
 
